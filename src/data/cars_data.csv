@@ -1,0 +1,482 @@
+Marca do Carro,Ano do Carro,Cilindros do Carro,Litragem do Motor,Modelo do Carro,Tipo de Gasolina,Cidade (MPG),Rodovia (MPG),Combinado (MPG),Autonomia Total (MPG),Galões por Milhas
+Toyota,2025,4,2.0,Toyota Corolla,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2024,4,2.0,Toyota Corolla,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2023,4,2.0,Toyota Corolla,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2025,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2024,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2023,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2022,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2021,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2020,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2020,4,1.5,Toyota Yaris,Regular Gasoline,32.0,40.0,35.0,406.0,2.9 gal/100 mi
+Toyota,2025,4,2.0,Toyota Corolla,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2024,4,2.0,Toyota Corolla,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2023,4,2.0,Toyota Corolla,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2025,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2024,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2023,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2022,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2021,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2020,4,2.0,Toyota Corolla Hatchback,Regular Gasoline,32.0,41.0,35.0,462.0,2.9 gal/100 mi
+Toyota,2020,4,1.5,Toyota Yaris,Regular Gasoline,32.0,40.0,35.0,406.0,2.9 gal/100 mi
+Toyota,2025,4,2.0,Toyota Corolla,Regular Gasoline,31.0,40.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2024,4,2.0,Toyota Corolla,Regular Gasoline,31.0,40.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2023,4,2.0,Toyota Corolla,Regular Gasoline,31.0,40.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2022,4,2.0,Toyota Corolla,Regular Gasoline,31.0,40.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2021,4,2.0,Toyota Corolla,Regular Gasoline,31.0,40.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2020,4,2.0,Toyota Corolla,Regular Gasoline,31.0,40.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2025,4,2.0,Toyota Corolla FX,Regular Gasoline,31.0,39.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2025,4,2.0,Toyota Corolla,Regular Gasoline,31.0,38.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2022,4,2.0,Toyota Corolla APEX,Regular Gasoline,31.0,38.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2021,4,2.0,Toyota Corolla APEX,Regular Gasoline,31.0,38.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2022,4,2.0,Toyota Corolla XSE,Regular Gasoline,31.0,38.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2021,4,2.0,Toyota Corolla XSE,Regular Gasoline,31.0,38.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2020,4,2.0,Toyota Corolla XSE,Regular Gasoline,31.0,38.0,34.0,449.0,2.9 gal/100 mi
+Toyota,2020,4,1.5,Toyota Yaris,Regular Gasoline,30.0,39.0,34.0,394.0,2.9 gal/100 mi
+Toyota,2020,4,2.5,Toyota Camry,Regular Gasoline,29.0,41.0,34.0,537.0,2.9 gal/100 mi
+Toyota,2022,4,1.8,Toyota Corolla,Regular Gasoline,30.0,38.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2021,4,1.8,Toyota Corolla,Regular Gasoline,30.0,38.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2020,4,1.8,Toyota Corolla,Regular Gasoline,30.0,38.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2025,4,2.0,Toyota Corolla Hatchback XSE,Regular Gasoline,30.0,38.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2024,4,2.0,Toyota Corolla Hatchback XSE,Regular Gasoline,30.0,38.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2023,4,2.0,Toyota Corolla Hatchback XSE,Regular Gasoline,30.0,38.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2022,4,2.0,Toyota Corolla Hatchback XSE,Regular Gasoline,30.0,38.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2021,4,2.0,Toyota Corolla Hatchback XSE,Regular Gasoline,30.0,38.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2020,4,2.0,Toyota Corolla Hatchback XSE,Regular Gasoline,30.0,38.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2022,4,1.8,Toyota Corolla,Regular Gasoline,29.0,39.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2021,4,1.8,Toyota Corolla,Regular Gasoline,29.0,39.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2020,4,1.8,Toyota Corolla,Regular Gasoline,29.0,39.0,33.0,436.0,3.0 gal/100 mi
+Toyota,2024,4,2.0,Toyota Corolla Cross,Regular Gasoline,31.0,33.0,32.0,397.0,3.1 gal/100 mi
+Toyota,2023,4,2.0,Toyota Corolla Cross,Regular Gasoline,31.0,33.0,32.0,397.0,3.1 gal/100 mi
+Toyota,2022,4,2.0,Toyota Corolla Cross,Regular Gasoline,31.0,33.0,32.0,397.0,3.1 gal/100 mi
+Jeep,2025,4,2.0,Jeep Compass 4WD,Regular Gasoline,24.0,32.0,27.0,364.0,3.7 gal/100 mi
+Jeep,2024,4,2.0,Jeep Compass 4WD,Regular Gasoline,24.0,32.0,27.0,364.0,3.7 gal/100 mi
+Jeep,2023,4,2.0,Jeep Compass 4WD,Regular Gasoline,24.0,32.0,27.0,364.0,3.7 gal/100 mi
+Jeep,2022,4,1.3,Jeep Renegade 2WD,Regular Gasoline,24.0,32.0,27.0,343.0,3.7 gal/100 mi
+Jeep,2021,4,1.3,Jeep Renegade 2WD,Regular Gasoline,24.0,32.0,27.0,343.0,3.7 gal/100 mi
+Jeep,2020,4,1.3,Jeep Renegade 2WD,Regular Gasoline,24.0,32.0,27.0,343.0,3.7 gal/100 mi
+Jeep,2020,4,2.4,Jeep Compass FWD,Regular Gasoline,23.0,32.0,26.0,351.0,3.8 gal/100 mi
+Jeep,2022,4,2.0,Jeep Cherokee FWD,Regular Gasoline,23.0,31.0,26.0,411.0,3.8 gal/100 mi
+Jeep,2021,4,2.0,Jeep Cherokee FWD,Regular Gasoline,23.0,31.0,26.0,411.0,3.8 gal/100 mi
+Jeep,2020,4,2.0,Jeep Cherokee FWD,Regular Gasoline,23.0,31.0,26.0,411.0,3.8 gal/100 mi
+Jeep,2025,4,2.0,Jeep Compass 4WD,Regular Gasoline,24.0,32.0,27.0,364.0,3.7 gal/100 mi
+Jeep,2024,4,2.0,Jeep Compass 4WD,Regular Gasoline,24.0,32.0,27.0,364.0,3.7 gal/100 mi
+Jeep,2023,4,2.0,Jeep Compass 4WD,Regular Gasoline,24.0,32.0,27.0,364.0,3.7 gal/100 mi
+Jeep,2022,4,1.3,Jeep Renegade 2WD,Regular Gasoline,24.0,32.0,27.0,343.0,3.7 gal/100 mi
+Jeep,2021,4,1.3,Jeep Renegade 2WD,Regular Gasoline,24.0,32.0,27.0,343.0,3.7 gal/100 mi
+Jeep,2020,4,1.3,Jeep Renegade 2WD,Regular Gasoline,24.0,32.0,27.0,343.0,3.7 gal/100 mi
+Jeep,2020,4,2.4,Jeep Compass FWD,Regular Gasoline,23.0,32.0,26.0,351.0,3.8 gal/100 mi
+Jeep,2022,4,2.0,Jeep Cherokee FWD,Regular Gasoline,23.0,31.0,26.0,411.0,3.8 gal/100 mi
+Jeep,2021,4,2.0,Jeep Cherokee FWD,Regular Gasoline,23.0,31.0,26.0,411.0,3.8 gal/100 mi
+Jeep,2020,4,2.0,Jeep Cherokee FWD,Regular Gasoline,23.0,31.0,26.0,411.0,3.8 gal/100 mi
+Jeep,2023,4,1.3,Jeep Renegade 4WD,Regular Gasoline,23.0,29.0,26.0,330.0,3.8 gal/100 mi
+Jeep,2022,4,1.3,Jeep Renegade 4WD,Regular Gasoline,23.0,29.0,26.0,330.0,3.8 gal/100 mi
+Jeep,2021,4,1.3,Jeep Renegade 4WD,Regular Gasoline,23.0,29.0,26.0,330.0,3.8 gal/100 mi
+Jeep,2020,4,1.3,Jeep Renegade 4WD,Regular Gasoline,23.0,29.0,26.0,330.0,3.8 gal/100 mi
+Jeep,2022,4,2.4,Jeep Cherokee FWD,Regular Gasoline,22.0,31.0,25.0,395.0,4.0 gal/100 mi
+Jeep,2021,4,2.4,Jeep Cherokee FWD,Regular Gasoline,22.0,31.0,25.0,395.0,4.0 gal/100 mi
+Jeep,2020,4,2.4,Jeep Cherokee FWD,Regular Gasoline,22.0,31.0,25.0,395.0,4.0 gal/100 mi
+Jeep,2020,4,2.4,Jeep Compass 4WD,Regular Gasoline,22.0,31.0,25.0,338.0,4.0 gal/100 mi
+Jeep,2022,4,2.4,Jeep Compass FWD,Regular Gasoline,22.0,31.0,25.0,338.0,4.0 gal/100 mi
+Jeep,2021,4,2.4,Jeep Compass FWD,Regular Gasoline,22.0,31.0,25.0,338.0,4.0 gal/100 mi
+Jeep,2020,4,2.4,Jeep Compass FWD,Regular Gasoline,22.0,31.0,25.0,338.0,4.0 gal/100 mi
+Jeep,2022,4,2.4,Jeep Compass 4WD,Regular Gasoline,22.0,30.0,25.0,338.0,4.0 gal/100 mi
+Jeep,2021,4,2.4,Jeep Compass 4WD,Regular Gasoline,22.0,30.0,25.0,338.0,4.0 gal/100 mi
+Jeep,2020,4,2.4,Jeep Compass 4WD,Regular Gasoline,22.0,30.0,25.0,338.0,4.0 gal/100 mi
+Jeep,2021,4,2.4,Jeep Renegade 2WD,Regular Gasoline,22.0,30.0,25.0,318.0,4.0 gal/100 mi
+Jeep,2020,4,2.4,Jeep Renegade 2WD,Regular Gasoline,22.0,30.0,25.0,318.0,4.0 gal/100 mi
+Jeep,2023,4,1.3,Jeep Renegade Trailhawk 4WD,Regular Gasoline,22.0,27.0,24.0,305.0,4.2 gal/100 mi
+Jeep,2022,4,1.3,Jeep Renegade Trailhawk 4WD,Regular Gasoline,22.0,27.0,24.0,305.0,4.2 gal/100 mi
+Jeep,2021,4,1.3,Jeep Renegade Trailhawk 4WD,Regular Gasoline,22.0,27.0,24.0,305.0,4.2 gal/100 mi
+Jeep,2020,4,1.3,Jeep Renegade Trailhawk 4WD,Regular Gasoline,22.0,27.0,24.0,305.0,4.2 gal/100 mi
+Jeep,2023,4,2.4,Jeep Cherokee 4WD,Regular Gasoline,21.0,29.0,24.0,379.0,4.2 gal/100 mi
+Jeep,2022,4,2.0,Jeep Cherokee 4WD,Regular Gasoline,21.0,29.0,24.0,379.0,4.2 gal/100 mi
+Jeep,2022,4,2.4,Jeep Cherokee 4WD,Regular Gasoline,21.0,29.0,24.0,379.0,4.2 gal/100 mi
+Jeep,2021,4,2.0,Jeep Cherokee 4WD,Regular Gasoline,21.0,29.0,24.0,379.0,4.2 gal/100 mi
+Jeep,2021,4,2.4,Jeep Cherokee 4WD,Regular Gasoline,21.0,29.0,24.0,379.0,4.2 gal/100 mi
+Jeep,2020,4,2.0,Jeep Cherokee 4WD,Regular Gasoline,21.0,29.0,24.0,379.0,4.2 gal/100 mi
+Jeep,2020,4,2.4,Jeep Cherokee 4WD,Regular Gasoline,21.0,29.0,24.0,379.0,4.2 gal/100 mi
+Jeep,2021,4,2.4,Jeep Renegade 4WD,Regular Gasoline,21.0,29.0,24.0,305.0,4.2 gal/100 mi
+Jeep,2020,4,2.4,Jeep Renegade 4WD,Regular Gasoline,21.0,29.0,24.0,305.0,4.2 gal/100 mi
+Jeep,2023,4,2.0,Jeep Wrangler 2dr 4WD,Regular Gasoline,22.0,24.0,23.0,402.0,4.3 gal/100 mi
+Nissan,2025,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2024,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2023,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2022,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2021,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2020,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2025,4,2.0,Nissan Sentra,Regular Gasoline,30.0,40.0,34.0,422.0,2.9 gal/100 mi
+Nissan,2024,4,2.0,Nissan Sentra,Regular Gasoline,30.0,40.0,34.0,422.0,2.9 gal/100 mi
+Nissan,2024,4,1.6,Nissan Kicks,Regular Gasoline,31.0,36.0,33.0,356.0,3.0 gal/100 mi
+Nissan,2023,4,1.6,Nissan Kicks,Regular Gasoline,31.0,36.0,33.0,356.0,3.0 gal/100 mi
+Nissan,2025,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2024,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2023,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2022,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2021,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2020,4,1.6,Nissan Versa,Regular Gasoline,32.0,40.0,35.0,378.0,2.9 gal/100 mi
+Nissan,2025,4,2.0,Nissan Sentra,Regular Gasoline,30.0,40.0,34.0,422.0,2.9 gal/100 mi
+Nissan,2024,4,2.0,Nissan Sentra,Regular Gasoline,30.0,40.0,34.0,422.0,2.9 gal/100 mi
+Nissan,2024,4,1.6,Nissan Kicks,Regular Gasoline,31.0,36.0,33.0,356.0,3.0 gal/100 mi
+Nissan,2023,4,1.6,Nissan Kicks,Regular Gasoline,31.0,36.0,33.0,356.0,3.0 gal/100 mi
+Nissan,2022,4,1.6,Nissan Kicks,Regular Gasoline,31.0,36.0,33.0,356.0,3.0 gal/100 mi
+Nissan,2021,4,1.6,Nissan Kicks,Regular Gasoline,31.0,36.0,33.0,356.0,3.0 gal/100 mi
+Nissan,2020,4,1.6,Nissan Kicks,Regular Gasoline,31.0,36.0,33.0,356.0,3.0 gal/100 mi
+Nissan,2025,4,2.0,Nissan Sentra SR,Regular Gasoline,30.0,38.0,33.0,409.0,3.0 gal/100 mi
+Nissan,2024,4,2.0,Nissan Sentra SR,Regular Gasoline,30.0,38.0,33.0,409.0,3.0 gal/100 mi
+Nissan,2025,3,1.5,Nissan Rogue FWD,Regular Gasoline,30.0,37.0,33.0,478.0,3.0 gal/100 mi
+Nissan,2024,3,1.5,Nissan Rogue FWD,Regular Gasoline,30.0,37.0,33.0,478.0,3.0 gal/100 mi
+Nissan,2023,3,1.5,Nissan Rogue FWD,Regular Gasoline,30.0,37.0,33.0,478.0,3.0 gal/100 mi
+Nissan,2023,3,1.5,Nissan Rogue FWD,Regular Gasoline,30.0,37.0,33.0,478.0,3.0 gal/100 mi
+Nissan,2022,3,1.5,Nissan Rogue FWD,Regular Gasoline,30.0,37.0,33.0,478.0,3.0 gal/100 mi
+Nissan,2021,3,1.5,Nissan Rogue FWD,Regular Gasoline,30.0,37.0,33.0,478.0,3.0 gal/100 mi
+Nissan,2021,3,1.5,Nissan Rogue AWD,Regular Gasoline,30.0,36.0,33.0,478.0,3.0 gal/100 mi
+Nissan,2023,4,2.0,Nissan Sentra,Regular Gasoline,29.0,39.0,33.0,409.0,3.0 gal/100 mi
+Nissan,2022,4,2.0,Nissan Sentra,Regular Gasoline,29.0,39.0,33.0,409.0,3.0 gal/100 mi
+Nissan,2021,4,2.0,Nissan Sentra,Regular Gasoline,29.0,39.0,33.0,409.0,3.0 gal/100 mi
+Nissan,2020,4,2.0,Nissan Sentra,Regular Gasoline,29.0,39.0,33.0,409.0,3.0 gal/100 mi
+Nissan,2021,3,1.5,Nissan Rogue FWD SL/Platinum,Regular Gasoline,30.0,36.0,32.0,464.0,3.1 gal/100 mi
+Nissan,2025,3,1.5,Nissan Rogue FWD SL/Platinum,Regular Gasoline,29.0,36.0,32.0,464.0,3.1 gal/100 mi
+Nissan,2024,3,1.5,Nissan Rogue FWD SL/Platinum,Regular Gasoline,29.0,36.0,32.0,464.0,3.1 gal/100 mi
+Nissan,2023,3,1.5,Nissan Rogue FWD SL/Platinum,Regular Gasoline,29.0,36.0,32.0,464.0,3.1 gal/100 mi
+Nissan,2023,3,1.5,Nissan Rogue FWD SL/Platinum,Regular Gasoline,29.0,36.0,32.0,464.0,3.1 gal/100 mi
+Nissan,2022,3,1.5,Nissan Rogue FWD SL/Platinum,Regular Gasoline,29.0,36.0,32.0,464.0,3.1 gal/100 mi
+Nissan,2021,3,1.5,Nissan Rogue AWD SL/Platinum,Regular Gasoline,29.0,35.0,32.0,464.0,3.1 gal/100 mi
+Nissan,2022,4,2.5,Nissan Altima,Regular Gasoline,28.0,39.0,32.0,518.0,3.1 gal/100 mi
+Nissan,2021,4,2.5,Nissan Altima,Regular Gasoline,28.0,39.0,32.0,518.0,3.1 gal/100 mi
+Nissan,2020,4,2.5,Nissan Altima,Regular Gasoline,28.0,39.0,32.0,518.0,3.1 gal/100 mi
+Nissan,2023,4,2.0,Nissan Sentra SR,Regular Gasoline,28.0,37.0,32.0,397.0,3.1 gal/100 mi
+Nissan,2022,4,2.0,Nissan Sentra SR,Regular Gasoline,28.0,37.0,32.0,397.0,3.1 gal/100 mi
+Nissan,2021,4,2.0,Nissan Sentra SR,Regular Gasoline,28.0,37.0,32.0,397.0,3.1 gal/100 mi
+Nissan,2020,4,2.0,Nissan Sentra SR,Regular Gasoline,28.0,37.0,32.0,397.0,3.1 gal/100 mi
+Honda,2024,4,1.5,Honda Civic 4Dr,Regular Gasoline,33.0,42.0,36.0,446.0,2.8 gal/100 mi
+Honda,2023,4,1.5,Honda Civic 4Dr,Regular Gasoline,33.0,42.0,36.0,446.0,2.8 gal/100 mi
+Honda,2022,4,1.5,Honda Civic 4Dr,Regular Gasoline,33.0,42.0,36.0,446.0,2.8 gal/100 mi
+Honda,2020,4,1.5,Honda Fit,Regular Gasoline,33.0,40.0,36.0,382.0,2.8 gal/100 mi
+Honda,2021,4,1.5,Honda Civic 4Dr,Regular Gasoline,32.0,42.0,36.0,446.0,2.8 gal/100 mi
+Honda,2020,4,1.5,Honda Civic 4Dr,Regular Gasoline,32.0,42.0,36.0,446.0,2.8 gal/100 mi
+Honda,2025,4,2.0,Honda Civic 4Dr,Regular Gasoline,32.0,41.0,36.0,446.0,2.8 gal/100 mi
+Honda,2020,4,1.5,Honda Civic 2Dr,Regular Gasoline,31.0,40.0,35.0,434.0,2.9 gal/100 mi
+Honda,2024,4,2.0,Honda Civic 4Dr,Regular Gasoline,31.0,40.0,35.0,434.0,2.9 gal/100 mi
+Honda,2023,4,2.0,Honda Civic 4Dr,Regular Gasoline,31.0,40.0,35.0,434.0,2.9 gal/100 mi
+Honda,2024,4,1.5,Honda Civic 4Dr,Regular Gasoline,33.0,42.0,36.0,446.0,2.8 gal/100 mi
+Honda,2023,4,1.5,Honda Civic 4Dr,Regular Gasoline,33.0,42.0,36.0,446.0,2.8 gal/100 mi
+Honda,2022,4,1.5,Honda Civic 4Dr,Regular Gasoline,33.0,42.0,36.0,446.0,2.8 gal/100 mi
+Honda,2020,4,1.5,Honda Fit,Regular Gasoline,33.0,40.0,36.0,382.0,2.8 gal/100 mi
+Honda,2021,4,1.5,Honda Civic 4Dr,Regular Gasoline,32.0,42.0,36.0,446.0,2.8 gal/100 mi
+Honda,2020,4,1.5,Honda Civic 4Dr,Regular Gasoline,32.0,42.0,36.0,446.0,2.8 gal/100 mi
+Honda,2025,4,2.0,Honda Civic 4Dr,Regular Gasoline,32.0,41.0,36.0,446.0,2.8 gal/100 mi
+Honda,2020,4,1.5,Honda Civic 2Dr,Regular Gasoline,31.0,40.0,35.0,434.0,2.9 gal/100 mi
+Honda,2024,4,2.0,Honda Civic 4Dr,Regular Gasoline,31.0,40.0,35.0,434.0,2.9 gal/100 mi
+Honda,2023,4,2.0,Honda Civic 4Dr,Regular Gasoline,31.0,40.0,35.0,434.0,2.9 gal/100 mi
+Honda,2022,4,2.0,Honda Civic 4Dr,Regular Gasoline,31.0,40.0,35.0,434.0,2.9 gal/100 mi
+Honda,2024,4,1.5,Honda Civic 5Dr,Regular Gasoline,31.0,39.0,35.0,434.0,2.9 gal/100 mi
+Honda,2023,4,1.5,Honda Civic 5Dr,Regular Gasoline,31.0,39.0,35.0,434.0,2.9 gal/100 mi
+Honda,2022,4,1.5,Honda Civic 5Dr,Regular Gasoline,31.0,39.0,35.0,434.0,2.9 gal/100 mi
+Honda,2021,4,1.5,Honda Civic 5Dr,Regular Gasoline,31.0,40.0,34.0,422.0,2.9 gal/100 mi
+Honda,2020,4,1.5,Honda Civic 5Dr,Regular Gasoline,31.0,40.0,34.0,422.0,2.9 gal/100 mi
+Honda,2025,4,2.0,Honda Civic 4Dr,Regular Gasoline,31.0,39.0,34.0,422.0,2.9 gal/100 mi
+Honda,2024,4,1.5,Honda Civic 4Dr,Regular Gasoline,31.0,38.0,34.0,422.0,2.9 gal/100 mi
+Honda,2023,4,1.5,Honda Civic 4Dr,Regular Gasoline,31.0,38.0,34.0,422.0,2.9 gal/100 mi
+Honda,2022,4,1.5,Honda Civic 4Dr,Regular Gasoline,31.0,38.0,34.0,422.0,2.9 gal/100 mi
+Honda,2025,4,2.0,Honda Civic 5Dr,Regular Gasoline,30.0,38.0,34.0,422.0,2.9 gal/100 mi
+Honda,2020,4,1.5,Honda Fit,Regular Gasoline,31.0,36.0,33.0,350.0,3.0 gal/100 mi
+Honda,2022,4,1.5,Honda Accord,Regular Gasoline,30.0,38.0,33.0,488.0,3.0 gal/100 mi
+Honda,2021,4,1.5,Honda Accord,Regular Gasoline,30.0,38.0,33.0,488.0,3.0 gal/100 mi
+Honda,2020,4,1.5,Honda Accord,Regular Gasoline,30.0,38.0,33.0,488.0,3.0 gal/100 mi
+Honda,2020,4,2.0,Honda Civic 2Dr,Regular Gasoline,30.0,38.0,33.0,409.0,3.0 gal/100 mi
+Honda,2021,4,1.5,Honda Civic 4Dr,Regular Gasoline,30.0,38.0,33.0,409.0,3.0 gal/100 mi
+Honda,2021,4,2.0,Honda Civic 4Dr,Regular Gasoline,30.0,38.0,33.0,409.0,3.0 gal/100 mi
+Honda,2020,4,1.5,Honda Civic 4Dr,Regular Gasoline,30.0,38.0,33.0,409.0,3.0 gal/100 mi
+Honda,2020,4,2.0,Honda Civic 4Dr,Regular Gasoline,30.0,38.0,33.0,409.0,3.0 gal/100 mi
+Honda,2024,4,2.0,Honda Civic 5Dr,Regular Gasoline,30.0,38.0,33.0,409.0,3.0 gal/100 mi
+Honda,2023,4,2.0,Honda Civic 5Dr,Regular Gasoline,30.0,38.0,33.0,409.0,3.0 gal/100 mi
+Honda,2022,4,2.0,Honda Civic 5Dr,Regular Gasoline,30.0,38.0,33.0,409.0,3.0 gal/100 mi
+Honda,2020,4,1.5,Honda Civic 2Dr,Regular Gasoline,30.0,37.0,33.0,409.0,3.0 gal/100 mi
+Honda,2024,4,2.0,Honda Civic 4Dr,Regular Gasoline,30.0,37.0,33.0,409.0,3.0 gal/100 mi
+Honda,2023,4,2.0,Honda Civic 4Dr,Regular Gasoline,30.0,37.0,33.0,409.0,3.0 gal/100 mi
+Honda,2022,4,2.0,Honda Civic 4Dr,Regular Gasoline,30.0,37.0,33.0,409.0,3.0 gal/100 mi
+Honda,2024,4,1.5,Honda Civic 5Dr,Regular Gasoline,30.0,37.0,33.0,409.0,3.0 gal/100 mi
+Honda,2023,4,1.5,Honda Civic 5Dr,Regular Gasoline,30.0,37.0,33.0,409.0,3.0 gal/100 mi
+Honda,2022,4,1.5,Honda Civic 5Dr,Regular Gasoline,30.0,37.0,33.0,409.0,3.0 gal/100 mi
+Land Rover,2025,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,22.0,26.0,23.0,497.0,4.3 gal/100 mi
+Land Rover,2024,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,22.0,26.0,23.0,497.0,4.3 gal/100 mi
+Land Rover,2020,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,21.0,27.0,23.0,382.0,4.3 gal/100 mi
+Land Rover,2020,4,2.0,Land Rover Evoque,Premium Gasoline,20.0,27.0,23.0,407.0,4.3 gal/100 mi
+Land Rover,2023,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,20.0,26.0,23.0,497.0,4.3 gal/100 mi
+Land Rover,2022,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,20.0,26.0,23.0,382.0,4.3 gal/100 mi
+Land Rover,2021,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,20.0,26.0,23.0,389.0,4.3 gal/100 mi
+Land Rover,2021,4,2.0,Land Rover Evoque,Premium Gasoline,20.0,27.0,22.0,389.0,4.5 gal/100 mi
+Land Rover,2025,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,22.0,26.0,23.0,497.0,4.3 gal/100 mi
+Land Rover,2024,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,22.0,26.0,23.0,497.0,4.3 gal/100 mi
+Land Rover,2020,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,21.0,27.0,23.0,382.0,4.3 gal/100 mi
+Land Rover,2020,4,2.0,Land Rover Evoque,Premium Gasoline,20.0,27.0,23.0,407.0,4.3 gal/100 mi
+Land Rover,2023,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,20.0,26.0,23.0,497.0,4.3 gal/100 mi
+Land Rover,2022,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,20.0,26.0,23.0,382.0,4.3 gal/100 mi
+Land Rover,2021,4,2.0,Land Rover Range Rover Velar,Premium Gasoline,20.0,26.0,23.0,389.0,4.3 gal/100 mi
+Land Rover,2021,4,2.0,Land Rover Evoque,Premium Gasoline,20.0,27.0,22.0,389.0,4.5 gal/100 mi
+Land Rover,2023,4,2.0,Land Rover Range Rover Evoque,Premium Gasoline,20.0,27.0,22.0,389.0,4.5 gal/100 mi
+Land Rover,2022,4,2.0,Land Rover Range Rover Evoque,Premium Gasoline,20.0,27.0,22.0,389.0,4.5 gal/100 mi
+Land Rover,2020,4,2.0,Land Rover Range Rover Velar P300,Premium Gasoline,20.0,26.0,22.0,365.0,4.5 gal/100 mi
+Land Rover,2025,4,2.0,Land Rover Discovery,Premium Gasoline,19.0,24.0,21.0,500.0,4.8 gal/100 mi
+Land Rover,2024,4,2.0,Land Rover Discovery,Premium Gasoline,19.0,24.0,21.0,500.0,4.8 gal/100 mi
+Land Rover,2020,4,2.0,Land Rover Discovery Sport,Premium Gasoline,19.0,24.0,21.0,372.0,4.8 gal/100 mi
+Land Rover,2023,4,2.0,Land Rover Discovery,Premium Gasoline,19.0,22.0,21.0,500.0,4.8 gal/100 mi
+Land Rover,2022,4,2.0,Land Rover Discovery,Premium Gasoline,19.0,22.0,21.0,500.0,4.8 gal/100 mi
+Land Rover,2021,4,2.0,Land Rover Discovery,Premium Gasoline,19.0,22.0,21.0,504.0,4.8 gal/100 mi
+Land Rover,2025,4,2.0,Land Rover Discovery Sport,Premium Gasoline,19.0,23.0,20.0,476.0,5.0 gal/100 mi
+Land Rover,2024,4,2.0,Land Rover Discovery Sport,Premium Gasoline,19.0,23.0,20.0,354.0,5.0 gal/100 mi
+Land Rover,2023,4,2.0,Land Rover Discovery Sport,Premium Gasoline,19.0,23.0,20.0,354.0,5.0 gal/100 mi
+Land Rover,2022,4,2.0,Land Rover Discovery Sport,Premium Gasoline,19.0,23.0,20.0,476.0,5.0 gal/100 mi
+Land Rover,2021,4,2.0,Land Rover Discovery Sport,Premium Gasoline,19.0,23.0,20.0,332.0,5.0 gal/100 mi
+Land Rover,2020,6,3.0,Land Rover Range Rover Velar,Premium Gasoline,18.0,24.0,20.0,332.0,5.0 gal/100 mi
+Land Rover,2020,6,3.0,Land Rover Range Rover Velar P380,Premium Gasoline,18.0,24.0,20.0,452.0,5.0 gal/100 mi
+Land Rover,2025,4,2.0,Land Rover Defender 90,Premium Gasoline,18.0,21.0,19.0,445.0,5.3 gal/100 mi
+Land Rover,2024,4,2.0,Land Rover Defender 90,Premium Gasoline,18.0,21.0,19.0,445.0,5.3 gal/100 mi
+Land Rover,2023,4,2.0,Land Rover Defender 90,Premium Gasoline,18.0,21.0,19.0,445.0,5.3 gal/100 mi
+Land Rover,2021,4,2.0,Land Rover Defender 90,Premium Gasoline,18.0,21.0,19.0,445.0,5.3 gal/100 mi
+Land Rover,2020,4,2.0,Land Rover Defender 90,Premium Gasoline,18.0,21.0,19.0,445.0,5.3 gal/100 mi
+Land Rover,2025,4,2.0,Land Rover Defender 110,Premium Gasoline,18.0,20.0,19.0,452.0,5.3 gal/100 mi
+Land Rover,2024,4,2.0,Land Rover Defender 110,Premium Gasoline,18.0,20.0,19.0,452.0,5.3 gal/100 mi
+Land Rover,2022,8,5.0,Land Rover Range Rover Sport,Premium Gasoline,17.0,22.0,19.0,524.0,5.3 gal/100 mi
+Land Rover,2021,8,5.0,Land Rover Range Rover Sport,Premium Gasoline,17.0,22.0,19.0,524.0,5.3 gal/100 mi
+Land Rover,2020,8,5.0,Land Rover Range Rover Sport,Premium Gasoline,17.0,22.0,19.0,524.0,5.3 gal/100 mi
+Land Rover,2023,4,2.0,Land Rover Defender 110,Premium Gasoline,17.0,20.0,18.0,428.0,5.6 gal/100 mi
+Land Rover,2022,4,2.0,Land Rover Defender 110,Premium Gasoline,17.0,20.0,18.0,428.0,5.6 gal/100 mi
+Land Rover,2021,4,2.0,Land Rover Defender 110,Premium Gasoline,17.0,20.0,18.0,428.0,5.6 gal/100 mi
+Dodge,2025,4,2.0,Dodge Hornet AWD,Regular Gasoline,21.0,29.0,24.0,324.0,4.2 gal/100 mi
+Dodge,2024,4,2.0,Dodge Hornet AWD,Regular Gasoline,21.0,29.0,24.0,324.0,4.2 gal/100 mi
+Dodge,2023,4,2.0,Dodge Hornet AWD,Regular Gasoline,21.0,29.0,24.0,324.0,4.2 gal/100 mi
+Dodge,2023,6,3.6,Dodge Challenger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2022,6,3.6,Dodge Challenger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2021,6,3.6,Dodge Challenger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2020,6,3.6,Dodge Challenger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2023,6,3.6,Dodge Charger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2022,6,3.6,Dodge Charger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2021,6,3.6,Dodge Charger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2025,4,2.0,Dodge Hornet AWD,Regular Gasoline,21.0,29.0,24.0,324.0,4.2 gal/100 mi
+Dodge,2024,4,2.0,Dodge Hornet AWD,Regular Gasoline,21.0,29.0,24.0,324.0,4.2 gal/100 mi
+Dodge,2023,4,2.0,Dodge Hornet AWD,Regular Gasoline,21.0,29.0,24.0,324.0,4.2 gal/100 mi
+Dodge,2023,6,3.6,Dodge Challenger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2022,6,3.6,Dodge Challenger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2021,6,3.6,Dodge Challenger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2020,6,3.6,Dodge Challenger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2023,6,3.6,Dodge Charger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2022,6,3.6,Dodge Charger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2021,6,3.6,Dodge Charger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2020,6,3.6,Dodge Charger,Regular Gasoline,19.0,30.0,23.0,426.0,4.3 gal/100 mi
+Dodge,2024,6,3.6,Dodge Durango RWD,Regular Gasoline,19.0,26.0,21.0,517.0,4.8 gal/100 mi
+Dodge,2023,6,3.6,Dodge Durango RWD,Regular Gasoline,19.0,26.0,21.0,517.0,4.8 gal/100 mi
+Dodge,2022,6,3.6,Dodge Durango RWD,Regular Gasoline,19.0,26.0,21.0,517.0,4.8 gal/100 mi
+Dodge,2021,6,3.6,Dodge Durango RWD,Regular Gasoline,19.0,26.0,21.0,517.0,4.8 gal/100 mi
+Dodge,2020,6,3.6,Dodge Durango RWD,Regular Gasoline,19.0,26.0,21.0,517.0,4.8 gal/100 mi
+Dodge,2020,4,2.4,Dodge Journey,Regular Gasoline,19.0,25.0,21.0,430.0,4.8 gal/100 mi
+Dodge,2023,6,3.6,Dodge Challenger AWD,Regular Gasoline,18.0,27.0,21.0,388.0,4.8 gal/100 mi
+Dodge,2022,6,3.6,Dodge Challenger AWD,Regular Gasoline,18.0,27.0,21.0,388.0,4.8 gal/100 mi
+Dodge,2021,6,3.6,Dodge Challenger AWD,Regular Gasoline,18.0,27.0,21.0,388.0,4.8 gal/100 mi
+Dodge,2020,6,3.6,Dodge Challenger AWD,Regular Gasoline,18.0,27.0,21.0,388.0,4.8 gal/100 mi
+Dodge,2023,6,3.6,Dodge Charger AWD,Regular Gasoline,18.0,27.0,21.0,388.0,4.8 gal/100 mi
+Dodge,2022,6,3.6,Dodge Charger AWD,Regular Gasoline,18.0,27.0,21.0,388.0,4.8 gal/100 mi
+Dodge,2021,6,3.6,Dodge Charger AWD,Regular Gasoline,18.0,27.0,21.0,388.0,4.8 gal/100 mi
+Dodge,2020,6,3.6,Dodge Charger AWD,Regular Gasoline,18.0,27.0,21.0,388.0,4.8 gal/100 mi
+Dodge,2024,6,3.6,Dodge Durango AWD,Regular Gasoline,18.0,25.0,21.0,517.0,4.8 gal/100 mi
+Dodge,2023,6,3.6,Dodge Durango AWD,Regular Gasoline,18.0,25.0,21.0,517.0,4.8 gal/100 mi
+Dodge,2022,6,3.6,Dodge Durango AWD,Regular Gasoline,18.0,25.0,21.0,517.0,4.8 gal/100 mi
+Dodge,2021,6,3.6,Dodge Durango AWD,Regular Gasoline,18.0,25.0,21.0,517.0,4.8 gal/100 mi
+Dodge,2020,6,3.6,Dodge Durango AWD,Regular Gasoline,18.0,25.0,21.0,517.0,4.8 gal/100 mi
+Dodge,2025,6,3.6,Dodge Durango RWD,Regular Gasoline,18.0,25.0,20.0,492.0,5.0 gal/100 mi
+Dodge,2020,6,3.6,Dodge Grand Caravan,Regular Gasoline,17.0,25.0,20.0,400.0,5.0 gal/100 mi
+Dodge,2025,6,3.6,Dodge Durango AWD,Regular Gasoline,17.0,24.0,20.0,492.0,5.0 gal/100 mi
+Dodge,2023,8,5.7,Dodge Challenger,Midgrade Gasoline,16.0,25.0,19.0,352.0,5.3 gal/100 mi
+Dodge,2022,8,5.7,Dodge Challenger,Midgrade Gasoline,16.0,25.0,19.0,352.0,5.3 gal/100 mi
+Dodge,2021,8,5.7,Dodge Challenger,Midgrade Gasoline,16.0,25.0,19.0,352.0,5.3 gal/100 mi
+Dodge,2020,8,5.7,Dodge Challenger,Midgrade Gasoline,16.0,25.0,19.0,352.0,5.3 gal/100 mi
+Dodge,2023,8,5.7,Dodge Charger,Midgrade Gasoline,16.0,25.0,19.0,352.0,5.3 gal/100 mi
+Dodge,2022,8,5.7,Dodge Charger,Midgrade Gasoline,16.0,25.0,19.0,352.0,5.3 gal/100 mi
+Dodge,2021,8,5.7,Dodge Charger,Midgrade Gasoline,16.0,25.0,19.0,352.0,5.3 gal/100 mi
+Volkswagen,2023,4,1.5,Volkswagen Jetta,Regular Gasoline,31.0,41.0,35.0,462.0,2.9 gal/100 mi
+Volkswagen,2022,4,1.5,Volkswagen Jetta,Regular Gasoline,31.0,41.0,35.0,462.0,2.9 gal/100 mi
+Volkswagen,2024,4,1.5,Volkswagen Jetta,Regular Gasoline,30.0,41.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2021,4,1.4,Volkswagen Jetta,Regular Gasoline,30.0,41.0,34.0,459.0,2.9 gal/100 mi
+Volkswagen,2020,4,1.4,Volkswagen Jetta,Regular Gasoline,30.0,40.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2020,4,1.4,Volkswagen Jetta,Regular Gasoline,30.0,40.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2022,4,1.5,Volkswagen Jetta,Regular Gasoline,29.0,43.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2024,4,1.5,Volkswagen Jetta,Regular Gasoline,29.0,42.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2023,4,1.5,Volkswagen Jetta,Regular Gasoline,29.0,42.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2022,4,1.5,Volkswagen Jetta SE/SEL,Regular Gasoline,29.0,40.0,33.0,436.0,3.0 gal/100 mi
+Volkswagen,2023,4,1.5,Volkswagen Jetta,Regular Gasoline,31.0,41.0,35.0,462.0,2.9 gal/100 mi
+Volkswagen,2022,4,1.5,Volkswagen Jetta,Regular Gasoline,31.0,41.0,35.0,462.0,2.9 gal/100 mi
+Volkswagen,2024,4,1.5,Volkswagen Jetta,Regular Gasoline,30.0,41.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2021,4,1.4,Volkswagen Jetta,Regular Gasoline,30.0,41.0,34.0,459.0,2.9 gal/100 mi
+Volkswagen,2020,4,1.4,Volkswagen Jetta,Regular Gasoline,30.0,40.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2020,4,1.4,Volkswagen Jetta,Regular Gasoline,30.0,40.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2022,4,1.5,Volkswagen Jetta,Regular Gasoline,29.0,43.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2024,4,1.5,Volkswagen Jetta,Regular Gasoline,29.0,42.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2023,4,1.5,Volkswagen Jetta,Regular Gasoline,29.0,42.0,34.0,449.0,2.9 gal/100 mi
+Volkswagen,2022,4,1.5,Volkswagen Jetta SE/SEL,Regular Gasoline,29.0,40.0,33.0,436.0,3.0 gal/100 mi
+Volkswagen,2025,4,1.5,Volkswagen Jetta Sport/SE/SEL,Regular Gasoline,29.0,40.0,33.0,436.0,3.0 gal/100 mi
+Volkswagen,2024,4,1.5,Volkswagen Jetta Sport/SE/SEL,Regular Gasoline,29.0,40.0,33.0,436.0,3.0 gal/100 mi
+Volkswagen,2023,4,1.5,Volkswagen Jetta Sport/SE/SEL,Regular Gasoline,29.0,40.0,33.0,436.0,3.0 gal/100 mi
+Volkswagen,2021,4,1.4,Volkswagen Golf,Regular Gasoline,29.0,39.0,33.0,446.0,3.0 gal/100 mi
+Volkswagen,2025,4,1.5,Volkswagen Jetta,Regular Gasoline,29.0,39.0,33.0,422.0,3.0 gal/100 mi
+Volkswagen,2021,4,1.4,Volkswagen Jetta,Regular Gasoline,29.0,39.0,33.0,422.0,3.0 gal/100 mi
+Volkswagen,2021,4,1.4,Volkswagen Golf,Regular Gasoline,29.0,36.0,32.0,409.0,3.1 gal/100 mi
+Volkswagen,2020,4,1.4,Volkswagen Golf,Regular Gasoline,29.0,35.0,32.0,409.0,3.1 gal/100 mi
+Volkswagen,2023,4,1.5,Volkswagen Taos,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Volkswagen,2022,4,1.5,Volkswagen Taos,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Volkswagen,2023,4,2.0,Volkswagen GLI,Regular Gasoline,26.0,37.0,30.0,396.0,3.3 gal/100 mi
+Volkswagen,2022,4,2.0,Volkswagen GLI,Regular Gasoline,26.0,37.0,30.0,396.0,3.3 gal/100 mi
+Volkswagen,2025,4,2.0,Volkswagen GLI,Regular Gasoline,26.0,36.0,30.0,396.0,3.3 gal/100 mi
+Volkswagen,2024,4,2.0,Volkswagen GLI,Regular Gasoline,26.0,36.0,30.0,396.0,3.3 gal/100 mi
+Volkswagen,2023,4,2.0,Volkswagen GLI,Regular Gasoline,26.0,36.0,30.0,370.0,3.3 gal/100 mi
+Volkswagen,2023,4,2.0,Volkswagen Arteon,Premium Gasoline,25.0,33.0,28.0,487.0,3.6 gal/100 mi
+Volkswagen,2020,4,2.0,Volkswagen Jetta,Regular Gasoline,25.0,33.0,28.0,370.0,3.6 gal/100 mi
+Volkswagen,2020,4,2.0,Volkswagen Jetta,Regular Gasoline,25.0,32.0,28.0,370.0,3.6 gal/100 mi
+Volkswagen,2023,4,1.5,Volkswagen Taos 4motion,Regular Gasoline,25.0,32.0,28.0,406.0,3.6 gal/100 mi
+Volkswagen,2022,4,1.5,Volkswagen Taos 4motion,Regular Gasoline,25.0,32.0,28.0,406.0,3.6 gal/100 mi
+Volkswagen,2022,4,2.0,Volkswagen Passat,Regular Gasoline,24.0,36.0,28.0,518.0,3.6 gal/100 mi
+Volkswagen,2021,4,2.0,Volkswagen Passat,Regular Gasoline,24.0,36.0,28.0,518.0,3.6 gal/100 mi
+Volkswagen,2024,4,2.0,Volkswagen GLI,Regular Gasoline,24.0,35.0,28.0,370.0,3.6 gal/100 mi
+Volkswagen,2021,4,2.0,Volkswagen Jetta GLI,Regular Gasoline,24.0,35.0,28.0,370.0,3.6 gal/100 mi
+Volkswagen,2022,4,2.0,Volkswagen Arteon,Premium Gasoline,24.0,34.0,28.0,487.0,3.6 gal/100 mi
+Volvo,2022,4,2.0,Volvo S60 B5,Premium Gasoline,26.0,35.0,30.0,477.0,3.3 gal/100 mi
+Volvo,2022,4,2.0,Volvo S60 B5 AWD,Premium Gasoline,25.0,33.0,28.0,445.0,3.6 gal/100 mi
+Volvo,2021,4,2.0,Volvo S60 FWD,Premium Gasoline,23.0,34.0,27.0,429.0,3.7 gal/100 mi
+Volvo,2020,4,2.0,Volvo S60 FWD,Premium Gasoline,23.0,34.0,27.0,392.0,3.7 gal/100 mi
+Volvo,2021,4,2.0,Volvo V60 FWD,Premium Gasoline,23.0,34.0,27.0,429.0,3.7 gal/100 mi
+Volvo,2020,4,2.0,Volvo V60 FWD,Premium Gasoline,23.0,34.0,27.0,392.0,3.7 gal/100 mi
+Volvo,2020,4,2.0,Volvo XC40 FWD,Regular Gasoline,23.0,33.0,27.0,383.0,3.7 gal/100 mi
+Volvo,2021,4,2.0,Volvo XC40 FWD,Regular Gasoline,23.0,32.0,26.0,369.0,3.8 gal/100 mi
+Volvo,2022,4,2.0,Volvo XC40 T4,Regular Gasoline,23.0,32.0,26.0,369.0,3.8 gal/100 mi
+Volvo,2022,4,2.0,Volvo S90 B6 AWD,Premium Gasoline,23.0,31.0,26.0,413.0,3.8 gal/100 mi
+Volvo,2022,4,2.0,Volvo S60 B5,Premium Gasoline,26.0,35.0,30.0,477.0,3.3 gal/100 mi
+Volvo,2022,4,2.0,Volvo S60 B5 AWD,Premium Gasoline,25.0,33.0,28.0,445.0,3.6 gal/100 mi
+Volvo,2021,4,2.0,Volvo S60 FWD,Premium Gasoline,23.0,34.0,27.0,429.0,3.7 gal/100 mi
+Volvo,2020,4,2.0,Volvo S60 FWD,Premium Gasoline,23.0,34.0,27.0,392.0,3.7 gal/100 mi
+Volvo,2021,4,2.0,Volvo V60 FWD,Premium Gasoline,23.0,34.0,27.0,429.0,3.7 gal/100 mi
+Volvo,2020,4,2.0,Volvo V60 FWD,Premium Gasoline,23.0,34.0,27.0,392.0,3.7 gal/100 mi
+Volvo,2020,4,2.0,Volvo XC40 FWD,Regular Gasoline,23.0,33.0,27.0,383.0,3.7 gal/100 mi
+Volvo,2021,4,2.0,Volvo XC40 FWD,Regular Gasoline,23.0,32.0,26.0,369.0,3.8 gal/100 mi
+Volvo,2022,4,2.0,Volvo XC40 T4,Regular Gasoline,23.0,32.0,26.0,369.0,3.8 gal/100 mi
+Volvo,2022,4,2.0,Volvo S90 B6 AWD,Premium Gasoline,23.0,31.0,26.0,413.0,3.8 gal/100 mi
+Volvo,2022,4,2.0,Volvo XC60 B5,Premium Gasoline,23.0,30.0,26.0,489.0,3.8 gal/100 mi
+Volvo,2021,4,2.0,Volvo S60 AWD,Premium Gasoline,22.0,33.0,26.0,413.0,3.8 gal/100 mi
+Volvo,2021,4,2.0,Volvo V90 FWD,Premium Gasoline,22.0,33.0,26.0,413.0,3.8 gal/100 mi
+Volvo,2020,4,2.0,Volvo V90 FWD,Premium Gasoline,22.0,33.0,26.0,413.0,3.8 gal/100 mi
+Volvo,2021,4,2.0,Volvo V60 CC AWD,Premium Gasoline,22.0,31.0,25.0,398.0,4.0 gal/100 mi
+Volvo,2020,4,2.0,Volvo V60 CC AWD,Premium Gasoline,22.0,31.0,25.0,398.0,4.0 gal/100 mi
+Volvo,2022,4,2.0,Volvo V60CC T5 AWD,Premium Gasoline,22.0,31.0,25.0,355.0,4.0 gal/100 mi
+Volvo,2021,4,2.0,Volvo XC40 AWD,Premium Gasoline,22.0,30.0,25.0,355.0,4.0 gal/100 mi
+Volvo,2020,4,2.0,Volvo XC40 AWD,Premium Gasoline,22.0,30.0,25.0,355.0,4.0 gal/100 mi
+Volvo,2022,4,2.0,Volvo V90CC B6 AWD,Premium Gasoline,22.0,29.0,25.0,398.0,4.0 gal/100 mi
+Volvo,2021,4,2.0,Volvo XC60 FWD,Premium Gasoline,22.0,29.0,25.0,470.0,4.0 gal/100 mi
+Volvo,2021,4,2.0,Volvo S60 AWD,Premium Gasoline,21.0,32.0,25.0,398.0,4.0 gal/100 mi
+Volvo,2020,4,2.0,Volvo S60 AWD,Premium Gasoline,21.0,32.0,25.0,398.0,4.0 gal/100 mi
+Volvo,2021,4,2.0,Volvo S90 AWD,Premium Gasoline,21.0,32.0,25.0,398.0,4.0 gal/100 mi
+Volvo,2021,4,2.0,Volvo V90 AWD,Premium Gasoline,21.0,32.0,25.0,398.0,4.0 gal/100 mi
+Volvo,2020,4,2.0,Volvo S90 AWD,Premium Gasoline,21.0,31.0,25.0,398.0,4.0 gal/100 mi
+Volvo,2020,4,2.0,Volvo V90 AWD,Premium Gasoline,21.0,31.0,25.0,398.0,4.0 gal/100 mi
+Volvo,2021,4,2.0,Volvo XC90 FWD,Premium Gasoline,21.0,30.0,25.0,470.0,4.0 gal/100 mi
+Volvo,2020,4,2.0,Volvo XC90 FWD,Premium Gasoline,21.0,30.0,25.0,470.0,4.0 gal/100 mi
+Volvo,2022,4,2.0,Volvo XC90 T5,Premium Gasoline,21.0,30.0,25.0,470.0,4.0 gal/100 mi
+Volvo,2020,4,2.0,Volvo XC60 FWD,Premium Gasoline,22.0,29.0,24.0,451.0,4.2 gal/100 mi
+Volvo,2022,4,2.0,Volvo XC60 B5 AWD,Premium Gasoline,22.0,28.0,24.0,451.0,4.2 gal/100 mi
+Volvo,2021,4,2.0,Volvo XC60 AWD,Premium Gasoline,21.0,28.0,24.0,451.0,4.2 gal/100 mi
+Volvo,2022,4,2.0,Volvo XC60 B6 AWD,Premium Gasoline,21.0,27.0,24.0,451.0,4.2 gal/100 mi
+Volvo,2021,4,2.0,Volvo V90 CC AWD,Premium Gasoline,20.0,30.0,24.0,382.0,4.2 gal/100 mi
+Volvo,2020,4,2.0,Volvo V90 CC AWD,Premium Gasoline,20.0,30.0,24.0,382.0,4.2 gal/100 mi
+Volvo,2021,4,2.0,Volvo XC90 AWD,Premium Gasoline,20.0,28.0,23.0,432.0,4.3 gal/100 mi
+Volvo,2022,4,2.0,Volvo XC90 T5 AWD,Premium Gasoline,20.0,28.0,23.0,432.0,4.3 gal/100 mi
+Volvo,2021,4,2.0,Volvo XC60 AWD,Premium Gasoline,20.0,27.0,23.0,432.0,4.3 gal/100 mi
+Subaru,2023,4,2.0,Subaru Impreza 4-Door,Regular Gasoline,28.0,36.0,32.0,422.0,3.1 gal/100 mi
+Subaru,2022,4,2.0,Subaru Impreza 4-Door,Regular Gasoline,28.0,36.0,32.0,422.0,3.1 gal/100 mi
+Subaru,2021,4,2.0,Subaru Impreza 4-Door,Regular Gasoline,28.0,36.0,32.0,422.0,3.1 gal/100 mi
+Subaru,2020,4,2.0,Subaru Impreza 4-Door,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Subaru,2023,4,2.0,Subaru Impreza 5-Door,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Subaru,2022,4,2.0,Subaru Impreza 5-Door,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Subaru,2021,4,2.0,Subaru Impreza 5-Door,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Subaru,2020,4,2.0,Subaru Impreza 5-Door,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Subaru,2023,4,2.0,Subaru Crosstrek AWD,Regular Gasoline,28.0,33.0,30.0,498.0,3.3 gal/100 mi
+Subaru,2022,4,2.0,Subaru Crosstrek AWD,Regular Gasoline,28.0,33.0,30.0,498.0,3.3 gal/100 mi
+Subaru,2023,4,2.0,Subaru Impreza 4-Door,Regular Gasoline,28.0,36.0,32.0,422.0,3.1 gal/100 mi
+Subaru,2022,4,2.0,Subaru Impreza 4-Door,Regular Gasoline,28.0,36.0,32.0,422.0,3.1 gal/100 mi
+Subaru,2021,4,2.0,Subaru Impreza 4-Door,Regular Gasoline,28.0,36.0,32.0,422.0,3.1 gal/100 mi
+Subaru,2020,4,2.0,Subaru Impreza 4-Door,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Subaru,2023,4,2.0,Subaru Impreza 5-Door,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Subaru,2022,4,2.0,Subaru Impreza 5-Door,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Subaru,2021,4,2.0,Subaru Impreza 5-Door,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Subaru,2020,4,2.0,Subaru Impreza 5-Door,Regular Gasoline,28.0,36.0,31.0,409.0,3.2 gal/100 mi
+Subaru,2023,4,2.0,Subaru Crosstrek AWD,Regular Gasoline,28.0,33.0,30.0,498.0,3.3 gal/100 mi
+Subaru,2022,4,2.0,Subaru Crosstrek AWD,Regular Gasoline,28.0,33.0,30.0,498.0,3.3 gal/100 mi
+Subaru,2021,4,2.0,Subaru Crosstrek AWD,Regular Gasoline,28.0,33.0,30.0,498.0,3.3 gal/100 mi
+Subaru,2023,4,2.0,Subaru Impreza Sport 4-Door,Regular Gasoline,27.0,36.0,30.0,396.0,3.3 gal/100 mi
+Subaru,2022,4,2.0,Subaru Impreza Sport 4-Door,Regular Gasoline,27.0,36.0,30.0,396.0,3.3 gal/100 mi
+Subaru,2021,4,2.0,Subaru Impreza Sport 4-Door,Regular Gasoline,27.0,36.0,30.0,396.0,3.3 gal/100 mi
+Subaru,2020,4,2.0,Subaru Impreza Sport 4-Door,Regular Gasoline,27.0,36.0,30.0,396.0,3.3 gal/100 mi
+Subaru,2023,4,2.0,Subaru Impreza Sport 5-Door,Regular Gasoline,27.0,35.0,30.0,396.0,3.3 gal/100 mi
+Subaru,2022,4,2.0,Subaru Impreza Sport 5-Door,Regular Gasoline,27.0,35.0,30.0,396.0,3.3 gal/100 mi
+Subaru,2021,4,2.0,Subaru Impreza Sport 5-Door,Regular Gasoline,27.0,35.0,30.0,396.0,3.3 gal/100 mi
+Subaru,2020,4,2.0,Subaru Impreza Sport 5-Door,Regular Gasoline,27.0,35.0,30.0,396.0,3.3 gal/100 mi
+Subaru,2025,4,2.5,Subaru Legacy AWD,Regular Gasoline,27.0,35.0,30.0,555.0,3.3 gal/100 mi
+Subaru,2024,4,2.5,Subaru Legacy AWD,Regular Gasoline,27.0,35.0,30.0,555.0,3.3 gal/100 mi
+Subaru,2023,4,2.5,Subaru Legacy AWD,Regular Gasoline,27.0,35.0,30.0,555.0,3.3 gal/100 mi
+Subaru,2022,4,2.5,Subaru Legacy AWD,Regular Gasoline,27.0,35.0,30.0,555.0,3.3 gal/100 mi
+Subaru,2021,4,2.5,Subaru Legacy AWD,Regular Gasoline,27.0,35.0,30.0,555.0,3.3 gal/100 mi
+Subaru,2020,4,2.5,Subaru Legacy AWD,Regular Gasoline,27.0,35.0,30.0,555.0,3.3 gal/100 mi
+Subaru,2025,4,2.0,Subaru Impreza,Regular Gasoline,27.0,34.0,30.0,498.0,3.3 gal/100 mi
+Subaru,2024,4,2.0,Subaru Impreza,Regular Gasoline,27.0,34.0,30.0,498.0,3.3 gal/100 mi
+Subaru,2020,4,2.0,Subaru Crosstrek AWD,Regular Gasoline,27.0,33.0,30.0,498.0,3.3 gal/100 mi
+Subaru,2025,4,2.0,Subaru Crosstrek AWD,Regular Gasoline,27.0,34.0,29.0,481.0,3.4 gal/100 mi
+Subaru,2023,4,2.5,Subaru Crosstrek AWD,Regular Gasoline,27.0,34.0,29.0,481.0,3.4 gal/100 mi
+Subaru,2022,4,2.5,Subaru Crosstrek AWD,Regular Gasoline,27.0,34.0,29.0,481.0,3.4 gal/100 mi
+Subaru,2021,4,2.5,Subaru Crosstrek AWD,Regular Gasoline,27.0,34.0,29.0,481.0,3.4 gal/100 mi
+Subaru,2025,4,2.5,Subaru Crosstrek AWD,Regular Gasoline,27.0,33.0,29.0,481.0,3.4 gal/100 mi
+Subaru,2024,4,2.5,Subaru Crosstrek AWD,Regular Gasoline,26.0,33.0,29.0,481.0,3.4 gal/100 mi
+Subaru,2025,4,2.5,Subaru Forester AWD,Regular Gasoline,26.0,33.0,29.0,481.0,3.4 gal/100 mi
+Subaru,2024,4,2.5,Subaru Forester AWD,Regular Gasoline,26.0,33.0,29.0,481.0,3.4 gal/100 mi
+Subaru,2023,4,2.5,Subaru Forester AWD,Regular Gasoline,26.0,33.0,29.0,481.0,3.4 gal/100 mi
+Subaru,2022,4,2.5,Subaru Forester AWD,Regular Gasoline,26.0,33.0,29.0,481.0,3.4 gal/100 mi
+Audi,2020,4,2.0,Audi A3,Regular Gasoline,27.0,36.0,30.0,459.0,3.3 gal/100 mi
+Audi,2020,4,2.0,Audi A4,Premium Gasoline,27.0,35.0,30.0,413.0,3.3 gal/100 mi
+Audi,2025,4,2.0,Audi A3 quattro,Premium Gasoline,24.0,34.0,28.0,413.0,3.6 gal/100 mi
+Audi,2020,4,2.0,Audi A4 quattro,Premium Gasoline,24.0,32.0,27.0,413.0,3.7 gal/100 mi
+Audi,2020,4,2.0,Audi A5 quattro,Premium Gasoline,24.0,32.0,27.0,392.0,3.7 gal/100 mi
+Audi,2020,4,2.0,Audi A5 Sportback quattro,Premium Gasoline,24.0,32.0,27.0,377.0,3.7 gal/100 mi
+Audi,2022,4,2.0,Audi S3,Premium Gasoline,23.0,32.0,27.0,398.0,3.7 gal/100 mi
+Audi,2023,4,2.0,Audi S3,Premium Gasoline,23.0,32.0,26.0,398.0,3.8 gal/100 mi
+Audi,2020,4,2.0,Audi A3,Regular Gasoline,27.0,36.0,30.0,459.0,3.3 gal/100 mi
+Audi,2020,4,2.0,Audi A4,Premium Gasoline,27.0,35.0,30.0,413.0,3.3 gal/100 mi
+Audi,2025,4,2.0,Audi A3 quattro,Premium Gasoline,24.0,34.0,28.0,413.0,3.6 gal/100 mi
+Audi,2020,4,2.0,Audi A4 quattro,Premium Gasoline,24.0,32.0,27.0,413.0,3.7 gal/100 mi
+Audi,2020,4,2.0,Audi A5 quattro,Premium Gasoline,24.0,32.0,27.0,392.0,3.7 gal/100 mi
+Audi,2020,4,2.0,Audi A5 Sportback quattro,Premium Gasoline,24.0,32.0,27.0,377.0,3.7 gal/100 mi
+Audi,2022,4,2.0,Audi S3,Premium Gasoline,23.0,32.0,27.0,398.0,3.7 gal/100 mi
+Audi,2023,4,2.0,Audi S3,Premium Gasoline,23.0,32.0,26.0,398.0,3.8 gal/100 mi
+Audi,2025,4,2.0,Audi S3,Premium Gasoline,23.0,31.0,26.0,377.0,3.8 gal/100 mi
+Audi,2021,4,2.0,Audi TT Coupe quattro,Regular Gasoline,23.0,31.0,26.0,377.0,3.8 gal/100 mi
+Audi,2020,4,2.0,Audi TT Coupe quattro,Regular Gasoline,23.0,31.0,26.0,377.0,3.8 gal/100 mi
+Audi,2021,4,2.0,Audi TT Roadster quattro,Regular Gasoline,23.0,31.0,26.0,377.0,3.8 gal/100 mi
+Audi,2020,4,2.0,Audi TT Roadster quattro,Regular Gasoline,23.0,31.0,26.0,377.0,3.8 gal/100 mi
+Audi,2023,4,2.0,Audi TTS Coupe,Premium Gasoline,23.0,31.0,26.0,377.0,3.8 gal/100 mi
+Audi,2022,4,2.0,Audi TTS Coupe quattro,Premium Gasoline,23.0,31.0,26.0,413.0,3.8 gal/100 mi
+Audi,2022,4,2.0,Audi Q3 quattro,Regular Gasoline,23.0,30.0,26.0,377.0,3.8 gal/100 mi
+Audi,2022,4,2.0,Audi TT Coupe quattro,Regular Gasoline,23.0,30.0,26.0,377.0,3.8 gal/100 mi
+Audi,2023,4,2.0,Audi TT Coupe,Regular Gasoline,23.0,30.0,25.0,362.0,4.0 gal/100 mi
+Audi,2023,4,2.0,Audi TT Roadster,Regular Gasoline,23.0,30.0,25.0,362.0,4.0 gal/100 mi
+Audi,2021,4,2.0,Audi TTS Coupe,Premium Gasoline,23.0,29.0,25.0,362.0,4.0 gal/100 mi
+Audi,2020,4,2.0,Audi TTS Coupe,Premium Gasoline,23.0,29.0,25.0,355.0,4.0 gal/100 mi
+Audi,2020,4,2.0,Audi A3 Cabriolet quattro,Regular Gasoline,22.0,30.0,25.0,362.0,4.0 gal/100 mi
+Audi,2020,4,2.0,Audi A3 quattro,Regular Gasoline,22.0,30.0,25.0,330.0,4.0 gal/100 mi
+Audi,2021,4,2.0,Audi Q3 quattro,Regular Gasoline,22.0,30.0,25.0,398.0,4.0 gal/100 mi
+Audi,2025,4,2.0,Audi Q3,Premium Gasoline,22.0,29.0,25.0,398.0,4.0 gal/100 mi
+Audi,2023,4,2.0,Audi Q3,Regular Gasoline,22.0,29.0,25.0,398.0,4.0 gal/100 mi
+Audi,2020,4,2.0,Audi S3,Premium Gasoline,22.0,29.0,25.0,362.0,4.0 gal/100 mi
+Audi,2020,4,2.0,Audi Q5,Premium Gasoline,22.0,28.0,24.0,444.0,4.2 gal/100 mi
+Audi,2023,6,3.0,Audi S4,Premium Gasoline,21.0,30.0,24.0,367.0,4.2 gal/100 mi
+Audi,2022,6,3.0,Audi S4,Premium Gasoline,21.0,30.0,24.0,367.0,4.2 gal/100 mi
+Audi,2023,6,3.0,Audi S5 Coupe,Premium Gasoline,21.0,30.0,24.0,367.0,4.2 gal/100 mi
+Audi,2022,6,3.0,Audi S5 Coupe,Premium Gasoline,21.0,30.0,24.0,367.0,4.2 gal/100 mi
+Audi,2023,6,3.0,Audi S5 Sportback,Premium Gasoline,21.0,30.0,24.0,367.0,4.2 gal/100 mi
+Audi,2022,6,3.0,Audi S5 Sportback,Premium Gasoline,21.0,30.0,24.0,367.0,4.2 gal/100 mi
+Audi,2024,6,3.0,Audi S4,Premium Gasoline,21.0,29.0,24.0,367.0,4.2 gal/100 mi
+Audi,2024,6,3.0,Audi S5 Coupe,Premium Gasoline,21.0,29.0,24.0,367.0,4.2 gal/100 mi
